@@ -1,0 +1,257 @@
+﻿body {
+
+}
+
+/*Heading Styles*/
+div.page-header { 
+    margin-top: 0px;
+    background-color: #CCCCCC;
+    background-size:cover;
+    padding-top: 3px;
+    margin-bottom: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-stretch: expanded;
+    font: bolder;
+    font-size: 50px; 
+    margin-bottom: -15px; 
+}
+h2{
+    text-align:center;
+    margin-top: -15px;
+    font-family: 'Clicker Script', cursive;
+    font-size: 40px;
+    margin-bottom: 75px;
+}
+/*Navbar styles*/
+#tuscannav.navbar.navbar-static-top{
+    text-align: left;
+    margin-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px; 
+    margin-bottom: 0px;
+    color: #CCCCCC;
+    background-color: #FFFFFF;
+}
+#tuscannav a{
+    margin-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px; 
+    margin-bottom: 0px;
+    color: #CCCCCC;
+}
+#tuscannav a:hover{
+    background-color:none;
+}
+/*BUTTON*/
+button.navbar-toggle{
+    border:1px solid #FFFFFF;
+}
+span.icon-bar{
+    text-align:left;
+    border:1px solid #FFFFFF;
+}
+/*Large pic*/
+img.tuscany{
+  position: relative    
+}
+h3{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom:15px;
+    top: 120px;
+    left: 310px;
+    width:400px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font: bold; 
+    color: #CCCCCC;
+    background-color: #333333;
+}
+h4{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    top: 150px;
+    left: 310px;
+    width:400px;
+    height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #CCCCCC;
+    background-color: #333333;
+}
+/*Map*/
+img.versilia{
+  position: relative    
+}
+h5{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    top: 100px;
+    left: 90px;
+    width:180px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font: bold; 
+    color: #333333;
+    background-color: #FFFFFF;
+}
+h6{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    top: 150px;
+    left: 90px;
+    width:180px;
+    height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #333333;
+    background-color: #FFFFFF;
+}
+p.a.span.glyphicon.search{
+ position:absolute;
+    top: 140px;
+    left: 90px;
+    width:100px;
+    height: 20px;
+}
+h7{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font: bolder;
+    font-size: 18px; 
+    color: #40E0D0;
+    background-color: #FFFFFF;
+    top: 500px;
+    width:400px;
+    height: 20px;
+}
+h8{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #000000;
+    background-color: #FFFFFF;
+    bottom: 500px;
+    width:400px;
+    height: 20px;
+}
+/*Weddings*/
+img.3b-348x348{
+  position: relative;    
+}
+h9{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom:15px;
+    top: 100px;
+    left: 80px;
+    width:200px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font: bold; 
+    color: #CCCCCC;
+    background-color: #333333;
+}
+h10{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    top: 130px;
+    left: 80px;
+    width:200px;
+    height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #CCCCCC;
+    background-color: #333333;
+}
+/*Friends*/
+img.42-348x348{
+  position: relative;    
+}
+h11{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom:15px;
+    top: 100px;
+    left: 80px;
+    width:200px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font: bold; 
+    color: #CCCCCC;
+    background-color: #333333;
+}
+h12{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    top: 130px;
+    left: 80px;
+    width:200px;
+    height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #CCCCCC;
+    background-color: #333333;
+}
+/*Family*/
+img.314-348x348{
+  position: relative;    
+}
+h13{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom:15px;
+    top: 100px;
+    left: 80px;
+    width:200px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font: bold; 
+    color: #CCCCCC;
+    background-color: #333333;
+}
+h14{
+    position:absolute;
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    top: 130px;
+    left: 80px;
+    width:200px;
+    height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #CCCCCC;
+    background-color: #333333;
+}
